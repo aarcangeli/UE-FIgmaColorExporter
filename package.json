@@ -1,0 +1,16 @@
+{
+  "name": "UE-Export-Colors",
+  "version": "1.0.0",
+  "description": "Export the color palette to a C++ source code that can be used inside Unreal Engine",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "typescript": "*"
+  }
+}
