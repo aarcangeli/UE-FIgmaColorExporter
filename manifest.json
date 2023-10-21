@@ -3,6 +3,7 @@
   "id": "1297211663720505456",
   "api": "1.0.0",
   "main": "code.js",
+  "ui": "ui.html",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": [
